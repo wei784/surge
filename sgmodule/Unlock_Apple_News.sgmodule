@@ -2,20 +2,20 @@
 #!desc=Unlock Apple News without SIM Card Detect
 [Rule]
 # > Apple News 
-PROCESS-NAME,News,United States
-PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,United States
-PROCESS-NAME,NewsTag,United States
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,United States
-PROCESS-NAME,NewsToday2,United States
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,United States
-PROCESS-NAME,NewsTodayIntents,United States
-PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,United States
-USER-AGENT,AppleNews*,United States
-DOMAIN,news-assets.apple.com,United States
-DOMAIN,news-client.apple.com,United States
-DOMAIN,news-edge.apple.com,United States
-DOMAIN,news-events.apple.com,United States
-DOMAIN,apple.comscoreresearch.com,United States
+PROCESS-NAME,News,🇺🇸 United States
+PROCESS-NAME,/System/Applications/News.app/Contents/MacOS/News,🇺🇸 United States
+PROCESS-NAME,NewsTag,🇺🇸 United States
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTag.appex/Contents/MacOS/NewsTag,🇺🇸 United States
+PROCESS-NAME,NewsToday2,🇺🇸 United States
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsToday2.appex/Contents/MacOS/NewsToday2,🇺🇸 United States
+PROCESS-NAME,NewsTodayIntents,🇺🇸 United States
+PROCESS-NAME,/System/Applications/News.app/Contents/PlugIns/NewsTodayIntents.appex/Contents/MacOS/NewsTodayIntents,🇺🇸 United States
+USER-AGENT,AppleNews*,🇺🇸 United States
+DOMAIN,news-assets.apple.com,🇺🇸 United States
+DOMAIN,news-client.apple.com,🇺🇸 United States
+DOMAIN,news-edge.apple.com,🇺🇸 United States
+DOMAIN,news-events.apple.com,🇺🇸 United States
+DOMAIN,apple.comscoreresearch.com,🇺🇸 United States
 
 [URL Rewrite]
 # Redirect GeoServices
