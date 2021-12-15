@@ -1,0 +1,9 @@
+#Xbox游戏下载（大陆地区）
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+#Xbox游戏下载（非大陆地区）
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+#Xbox应用下载
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
