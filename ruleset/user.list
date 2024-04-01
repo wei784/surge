@@ -1,5 +1,6 @@
-DOMAIN,beta.music.apple.com
-DOMAIN-KEYWORD,buy.itunes.apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+#DOMAIN,beta.music.apple.com
+#DOMAIN-KEYWORD,buy.itunes.apple.com
+#DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 
 DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,fuckimm.com
