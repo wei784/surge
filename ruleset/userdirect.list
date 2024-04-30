@@ -1,0 +1,9 @@
+#DOMAIN,beta.music.apple.com
+#DOMAIN-KEYWORD,buy.itunes.apple.com
+#DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,oraclecloud.com
+#哪吒探针 ipapi
+DOMAIN-SUFFIX,api.myip.la
+DOMAIN-SUFFIX,api.ip.sb
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip-api.com
